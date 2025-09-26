@@ -1,21 +1,3 @@
-// FAST & TASTY
-
-const productosComidaRapida = [
-  "Hamburguesa clásica",
-  "Hamburguesa con queso",
-  "Papas fritas",
-  "Nuggets de pollo",
-  "Pizza personal",
-  "Hot dog",
-  "Alitas de pollo",
-  "Aros de cebolla",
-  "Tacos",
-  "Burritos",
-  "Refresco grande",
-  "Malteada de vainilla",
-];
-
-
 let MENU = [
     {IDproduct: "1", Nombre: "Hamburguesa clásica", Precio: 50000, Categoria: "Hamburgesas"},
     {IDproduct: "2", Nombre: "Hamburguesa con queso", Precio: 60000, Categoria: "Hamburgesas"},
